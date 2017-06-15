@@ -33,6 +33,7 @@
             android:text="I am Poor!"
             android:textSize="40sp" />
 
+
     </RelativeLayout>
 
 
